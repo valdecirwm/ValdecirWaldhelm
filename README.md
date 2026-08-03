@@ -10,6 +10,7 @@
 ### Experiência:
 
 * 💻 I'm a Full-Stack Developer!
+* 🕋 I'm starting college for software engineering
 * 🏡 I’m from Brazil.
 * 📚 I’m currently learning everything.
 * 📥 2020 Goals: improve myself and always grow in my area.
