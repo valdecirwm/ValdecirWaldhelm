@@ -1,10 +1,10 @@
-<img src="https://fullstackvwm.com/wp-content/uploads/2024/11/VWM-banner.png" width="100%" height="400" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQET3MJ6gYuPkQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1701722418521?e=1787184000&v=beta&t=5vqoSUnFNdPE8wRk6rH9A3OgB5WDBqN0VJgF0UxPYfk" width="100%" height="400" />
 
 # Olá, boas vindas ao meu perfil GitHub 👋
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdecirWaldhelm&layout=compact&theme=dracula" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ValdecirWaldhelm&show_icons=true&theme=dracula" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=valdecirwm&layout=compact&theme=dracula" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=valdecirwm&show_icons=true&theme=dracula" height="165" />
 </p>
 
 ### Experiência:
@@ -20,4 +20,4 @@
 
 ### Contatos:
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ValdecirWaldhelm) [![LINK_LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdecir-waldhelm-morgado/) [![LINK_YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devgamercode) [![LINK_TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devgamercode)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ValdecirWaldhelm) [![LINK_LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdecir-waldhelm-morgado/) [![LINK_INSTAGRAM](https://img.shields.io/badge/Instagram-5851DB?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devfulldeco/)
